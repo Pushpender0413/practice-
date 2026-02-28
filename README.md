@@ -1,3 +1,3 @@
 # practice-
 this is my first git repository
-author-PUSHPENDER SINGH
+Author-Pushpender Singh
